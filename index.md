@@ -1,6 +1,6 @@
-# Umar Bin Ghayas – AI & Systems Portfolio
 
-# 👋 Hi, I’m Umar Bin Ghayas  
+
+## 👋 Hi, I’m Umar Bin Ghayas  
 **M.Sc. Systems Engineering & Engineering Management**
 
 AI · Deep Reinforcement Learning · MLOps · Generative Neural Networks
@@ -92,6 +92,7 @@ I love **deep RL**, **generative nets**, and building end-to-end pipelines that 
 
 ### Let’s build something intelligent together  
 [📬 Email](mailto:umarbinghayas@hotmail.com) · [💼 LinkedIn](https://www.linkedin.com/in/umarghayas/) · [🐙 GitHub](https://github.com/umarghayas)
+
 
 
 
