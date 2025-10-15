@@ -1,11 +1,14 @@
+# Umar Bin Ghayas – AI & Systems Portfolio
+
 # 👋 Hi, I’m Umar Bin Ghayas  
 **M.Sc. Systems Engineering & Engineering Management**
+
 AI · Deep Reinforcement Learning · MLOps · Generative Neural Networks
 
 📍 Soest, Germany  
 📱 [+49 176 3587 3105](tel:+4917635873105)  
-📧 [umarbinghayas@email.com](mailto:umarbinghayas@email.com)  
-🌐 [LinkedIn](https://linkedin.com/in/umar-ghayas) · [GitHub](https://github.com/umarghayas)
+📧 [umarbinghayas@hotmail.com](mailto:umarbinghayas@hotmail.com)  
+🌐 [LinkedIn](https://linkedin.com/in/umarghayas) · [GitHub](https://github.com/umarghayas)
 ---
 
 ## 🚀 What I Do
@@ -88,7 +91,7 @@ I love **deep RL**, **generative nets**, and building end-to-end pipelines that 
 
 
 ### Let’s build something intelligent together  
-[📬 Email](mailto:umarbinghayas@email.com) · [💼 LinkedIn](https://www.linkedin.com/in/umarghayas/) · [🐙 GitHub](https://github.com/umarghayas)
+[📬 Email](mailto:umarbinghayas@hotmail.com) · [💼 LinkedIn](https://www.linkedin.com/in/umarghayas/) · [🐙 GitHub](https://github.com/umarghayas)
 
 
-</div
+
