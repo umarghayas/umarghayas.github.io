@@ -1,11 +1,3 @@
----
-# Umar Bin Ghayas – AI & Systems Portfolio
-# -------------------------------------------------
-# 1. Paste this file as index.md in your repo
-# 2. Enable GitHub Pages (or Netlify drag-&-drop)
-# 3. Your site is live at https://yourname.github.io
----
-
 <div align="center">
 
 # 👋 Hi, I’m Umar Bin Ghayas  
@@ -103,5 +95,6 @@ I love **deep RL**, **generative nets**, and building end-to-end pipelines that 
 
 ### Let’s build something intelligent together  
 [📬 Email](mailto:umar.bin.ghayas@email.com) · [💼 LinkedIn](https://linkedin.com/in/umar-ghayas) · [🐙 GitHub](https://github.com/umarghayas)
+
 
 </div>
